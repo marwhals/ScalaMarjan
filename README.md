@@ -1,2 +1,2 @@
 # ScalaMarjan
-Scala Projects
+Scala Projects for me
